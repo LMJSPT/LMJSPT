@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LMJSPT
-- 👀 I’m interested in learning the most interesting code languages. 
+- 👀 I’m interested in learning different code languages. 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: quakemaster001@gmail.com
